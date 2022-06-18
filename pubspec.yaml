@@ -1,7 +1,8 @@
 name: internet_check
-description: internet_check_package
+description: A simple package to check the device is connected (connectivity) to internet or not.
 version: 0.0.1
-homepage:
+author : Abins Musthafa<musthafaabins#@gmail.com>
+homepage: https://github.com/abinsmusthafa/internet_check
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

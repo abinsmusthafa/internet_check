@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* A simple package to check the device is connected (connectivity) to internet or not.
